@@ -14,4 +14,3 @@ Based on a work at https://github.com/u4/unity_access.
 A brief roadmap:
 - Sonar, more features. Guideline: Advanced/Visual
 - SoundCompass.         Guideline: Advanced/Visual
-- Color blind simulator Guideline: Advanced/Visual
