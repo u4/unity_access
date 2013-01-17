@@ -11,6 +11,7 @@ but this project may include other game engines later.
 Unity Access by https://github.com/u4/unity_access is licensed under a Creative Commons Attribution-ShareAlike 2.5 Sweden License.
 Based on a work at https://github.com/u4/unity_access.
 
-A brief roadmap:
+Next steps:
 - Sonar, more features. Guideline: Advanced/Visual
 - SoundCompass.         Guideline: Advanced/Visual
+- Work out a priority order for other features and tools to be done
