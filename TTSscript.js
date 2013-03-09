@@ -9,10 +9,9 @@ Use Google Text-to-speech in Unity to make games more accessible.
 Usage:
 1. Create a game object e.g. "TTS" with an AudioSource
 2. Attach this script (named TTSscript to the TTS game object)
-3. Call init(); in e.g. Start();
-4. In any other game object which needs it:
-5. TTS = GameObject.Find("TTS");
-6. TTS.GetComponent(TTSscript).Say("South"); 
+3. In any other game object which needs it:
+4. TTS = GameObject.Find("TTS");
+5. TTS.GetComponent(TTSscript).Say("South"); 
 
 License: 
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License
