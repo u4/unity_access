@@ -12,6 +12,11 @@ Unity Access by https://github.com/u4/unity_access is licensed under a Creative 
 Based on a work at https://github.com/u4/unity_access.
 
 Next steps:
-- Sonar, more features. Guideline: Advanced/Visual
-- SoundCompass.         Guideline: Advanced/Visual
-- Work out a priority order for other features and tools to be done
+- Integrate TTS with Sonar and SoundCompass
+
+Updates (newest first):
+- Google TTS text-to-speech support in Unity
+- Basic version of SoundCompass (Guideline: Advanced/Visual)
+- Basic version of Sonar (Guideline: Advanced/Visual)
+
+
